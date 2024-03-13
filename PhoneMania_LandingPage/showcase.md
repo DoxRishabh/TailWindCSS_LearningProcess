@@ -1,1 +1,1 @@
-#Showcase of Result:
+Showcase of Result:
